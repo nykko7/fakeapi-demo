@@ -1,0 +1,136 @@
+[{
+	"id": "001",
+	"type": "Aspiradora",
+	"brand": "Luster Glanz",
+	"isActive": true,
+	"model": "BF580",
+	"floor": "12",
+	"tower": "A",
+	"imageSrc": "assets/img/Aspiradora-Luster-Glanz-BF580-70Lt-300x300.jpg"
+}, {
+	"id": "002",
+	"type": "Abrillantadora",
+	"brand": "Viper",
+	"model": "Venom VN 1715",
+	"isActive": false,
+	"floor": "13",
+	"tower": "B",
+	"imageSrc": "assets/img/VN1715-1-300X300.jpg"
+}, {
+	"id": "003",
+	"type": "Aspiradora",
+	"brand": "Viper",
+	"model": "LSU 395",
+	"isActive": true,
+	"floor": "12",
+	"tower": "A",
+	"imageSrc": "assets/img/LSU-395-300x300.jpg"
+}, {
+	"id": "004",
+	"type": "Abrillantadora",
+	"brand": "Luster/Glanz",
+	"model": "BF522",
+	"isActive": false,
+	"floor": "5",
+	"tower": "C",
+	"imageSrc": "assets/img/Abrillantadora-Luster-web.jpg"
+}, {
+	"id": "005",
+	"type": "Barredora",
+	"brand": "Nilfisk",
+	"model": "SR1101 SB",
+	"isActive": false,
+	"floor": "12",
+	"tower": "A",
+	"imageSrc": "assets/img/SR-1101-SP-Bateria2wm.jpg"
+}, {
+	"id": "006",
+	"type": "Aspiradora",
+	"brand": "Luster Glanz",
+	"isActive": true,
+	"model": "BF580",
+	"floor": "12",
+	"tower": "A",
+	"imageSrc": "assets/img/Aspiradora-Luster-Glanz-BF580-70Lt-300x300.jpg"
+}, {
+	"id": "007",
+	"type": "Abrillantadora",
+	"brand": "Viper",
+	"model": "Venom VN 1715",
+	"isActive": false,
+	"floor": "13",
+	"tower": "B",
+	"imageSrc": "assets/img/VN1715-1-300X300.jpg"
+}, {
+	"id": "008",
+	"type": "Aspiradora",
+	"brand": "Viper",
+	"model": "LSU 395",
+	"isActive": true,
+	"floor": "12",
+	"tower": "A",
+	"imageSrc": "assets/img/LSU-395-300x300.jpg"
+}, {
+	"id": "009",
+	"type": "Abrillantadora",
+	"brand": "Luster/Glanz",
+	"model": "BF522",
+	"isActive": false,
+	"floor": "5",
+	"tower": "C",
+	"imageSrc": "assets/img/Abrillantadora-Luster-web.jpg"
+}, {
+	"id": "010",
+	"type": "Barredora",
+	"brand": "Nilfisk",
+	"model": "SR1101 SB",
+	"isActive": false,
+	"floor": "12",
+	"tower": "A",
+	"imageSrc": "assets/img/SR-1101-SP-Bateria2wm.jpg"
+}, {
+	"id": "011",
+	"type": "Aspiradora",
+	"brand": "Luster Glanz",
+	"isActive": true,
+	"model": "BF580",
+	"floor": "12",
+	"tower": "A",
+	"imageSrc": "assets/img/Aspiradora-Luster-Glanz-BF580-70Lt-300x300.jpg"
+}, {
+	"id": "012",
+	"type": "Abrillantadora",
+	"brand": "Viper",
+	"model": "Venom VN 1715",
+	"isActive": false,
+	"floor": "13",
+	"tower": "B",
+	"imageSrc": "assets/img/VN1715-1-300X300.jpg"
+}, {
+	"id": "013",
+	"type": "Aspiradora",
+	"brand": "Viper",
+	"model": "LSU 395",
+	"isActive": true,
+	"floor": "12",
+	"tower": "A",
+	"imageSrc": "assets/img/LSU-395-300x300.jpg"
+}, {
+	"id": "014",
+	"type": "Abrillantadora",
+	"brand": "Luster/Glanz",
+	"model": "BF522",
+	"isActive": false,
+	"floor": "5",
+	"tower": "C",
+	"imageSrc": "assets/img/Abrillantadora-Luster-web.jpg"
+}, {
+	"id": "015",
+	"type": "Barredora",
+	"brand": "Nilfisk",
+	"model": "SR1101 SB",
+	"isActive": false,
+	"floor": "12",
+	"tower": "A",
+	"imageSrc": "assets/img/SR-1101-SP-Bateria2wm.jpg"
+}]
