@@ -1,9 +1,9 @@
 {
 	"Machines": [{
 		"id": "001",
-		"type": "asasdadsa",
+		"type": "Aspiradora",
 		"brand": "Luster Glanz",
-		"isActive": true,
+		"isActive": false,
 		"model": "BF580",
 		"floor": "12",
 		"tower": "A",
